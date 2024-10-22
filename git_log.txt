@@ -1,0 +1,11 @@
+commit 39ff1f699e1fbe2b9053ed2ba256e46ea9cd1f3d
+Author: SherlockTrang04 <hihowhe.di2000@gmail.com>
+Date:   Tue Oct 15 17:28:33 2024 +0200
+
+    <https://vzoj004.atlassian.net/browse/CC5-13>
+
+commit 154bd2fc983e2e3752bc66352dffd28deff384f3
+Author: SherlockTrang04 <hihowhe.di2000@gmail.com>
+Date:   Tue Oct 15 17:06:18 2024 +0200
+
+    <CC5-7, č.1 Urobit diagramy>
