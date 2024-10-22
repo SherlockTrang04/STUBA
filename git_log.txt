@@ -1,3 +1,9 @@
+commit 00e053a40fa9c9c546a2c7bbf5d0398cf2339de2
+Author: SherlockTrang04 <hihowhe.di2000@gmail.com>
+Date:   Tue Oct 22 16:44:29 2024 +0200
+
+    <CC5-11,5><Napísať prvú časť článku>
+
 commit 5c34703968c74e0c1611da17591a3a49842e4e8e
 Author: SherlockTrang04 <hihowhe.di2000@gmail.com>
 Date:   Tue Oct 22 16:43:42 2024 +0200
