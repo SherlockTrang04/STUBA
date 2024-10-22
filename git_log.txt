@@ -1,3 +1,9 @@
+commit de292c7a0235aa1ec1af2314008f19d0cd79f012
+Author: SherlockTrang04 <hihowhe.di2000@gmail.com>
+Date:   Tue Oct 22 17:23:49 2024 +0200
+
+    CC5-15, 2 zadajte názov, meno autora a dátum
+
 commit 5a3f6d62851e826ff501a53f53af0f592da33071
 Author: SherlockTrang04 <hihowhe.di2000@gmail.com>
 Date:   Tue Oct 22 17:22:54 2024 +0200
