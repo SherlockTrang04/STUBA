@@ -1,3 +1,9 @@
+commit e9aa098c65c3e0d989fc9a576e4d14f306a39bc9
+Author: SherlockTrang04 <hihowhe.di2000@gmail.com>
+Date:   Tue Oct 22 16:39:36 2024 +0200
+
+    <CC5-8,2><Urobiť prieskum k časti Algoritmov>
+
 commit aa082f32b245da658daa63e37c3d018462410c71
 Author: SherlockTrang04 <hihowhe.di2000@gmail.com>
 Date:   Tue Oct 22 16:33:00 2024 +0200
