@@ -1,3 +1,9 @@
+commit cdeee4dcb083840ecc48e77c85227d22c5981657
+Author: SherlockTrang04 <hihowhe.di2000@gmail.com>
+Date:   Tue Oct 22 17:24:26 2024 +0200
+
+    CC5-16, 3 zadajte niekoľko častí
+
 commit de292c7a0235aa1ec1af2314008f19d0cd79f012
 Author: SherlockTrang04 <hihowhe.di2000@gmail.com>
 Date:   Tue Oct 22 17:23:49 2024 +0200
