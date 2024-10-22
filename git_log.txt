@@ -1,3 +1,9 @@
+commit 7ec6c5e3d261372bb0d13116b33a4b647d5266b8
+Author: SherlockTrang04 <hihowhe.di2000@gmail.com>
+Date:   Tue Oct 22 17:25:22 2024 +0200
+
+    CC5-18, 5 vytvorte niekoľko slajdov s odrážkami prvej a druhej úrovne
+
 commit 2b35426ff37e81c7b700605cfa823eccc47a8848
 Author: SherlockTrang04 <hihowhe.di2000@gmail.com>
 Date:   Tue Oct 22 17:24:58 2024 +0200
