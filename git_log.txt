@@ -1,3 +1,9 @@
+commit 5a3f6d62851e826ff501a53f53af0f592da33071
+Author: SherlockTrang04 <hihowhe.di2000@gmail.com>
+Date:   Tue Oct 22 17:22:54 2024 +0200
+
+    CC5-14, 1 stiahnut subor prez.tex a porovnat s pdf
+
 commit 0e55e796a27b50d2d6dd8ae7c93feb8fdb620473
 Author: SherlockTrang04 <hihowhe.di2000@gmail.com>
 Date:   Tue Oct 22 16:45:29 2024 +0200
