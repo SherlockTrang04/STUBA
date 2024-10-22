@@ -1,3 +1,9 @@
+commit 24efb5eba19658479428518126298b68aeaafd0f
+Author: SherlockTrang04 <hihowhe.di2000@gmail.com>
+Date:   Tue Oct 22 17:25:51 2024 +0200
+
+    CC5-19, 6 vytvorte slajd s obrázkom
+
 commit 7ec6c5e3d261372bb0d13116b33a4b647d5266b8
 Author: SherlockTrang04 <hihowhe.di2000@gmail.com>
 Date:   Tue Oct 22 17:25:22 2024 +0200
